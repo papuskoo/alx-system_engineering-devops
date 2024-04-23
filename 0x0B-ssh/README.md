@@ -1,6 +1,7 @@
 
 Project 0x0B. SSH
 Overview
+![ssh_connection](https://www.ipxo.com/app/uploads/2022/02/What-is-SSH-820x460.jpg)
 This ongoing project, initiated on April 19, 2024, is a part of DevOps and SysAdmin tasks focusing on SSH, Network, and Security. It's a second chance project with a deadline set for April 25, 2024, 6:00 AM, including an auto QA review at the deadline.
 
 In a Nutshell
